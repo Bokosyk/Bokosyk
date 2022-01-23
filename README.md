@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leandro Parrado</h1>
-<h3 align="center">A passionate Front-End Web Developer from Kissimmee, Florida.</h3>
+<h3 align="center">Passionate front-end developer with a background in graphic design.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bokosyk&label=Profile%20views&color=0e75b6&style=flat" alt="bokosyk" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [React-Portfolio](https://r-portfol.herokuapp.com/)
 
-- 🌱 I’m currently learning **MySQL**
+- 🌱 I’m currently learning **Javascript, MySQL, Node.js**
 
 - 👯 I’m looking to collaborate on [Escape The Dungeon](https://github.com/Escape-The-Dungeon/Escape-The-Dungeon)
 
@@ -19,13 +19,12 @@
 
 - 📄 Know about my experiences [https://github.com/Bokosyk/React-Portfolio/blob/main/src/Documents/RR.pdf](https://github.com/Bokosyk/React-Portfolio/blob/main/src/Documents/RR.pdf)
 
-- ⚡ Fun fact **I love drawing and building cool things 😎**
+- ⚡ Fun fact **I love integrating art/technology, dungeons and dragons, and building cool things for fun😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/bokosyk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="bokosyk" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/leandro-parrado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leandro-parrado" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/leandro-p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="leandro-p" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/leandro-parrado-a05729166/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leandro-parrado" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
