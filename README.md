@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Javascript, MySQL, Node.js**
 
-- 👯 I’m looking to collaborate on [Escape The Dungeon](https://github.com/Escape-The-Dungeon/Escape-The-Dungeon)
+- 👯 I’m looking to collaborate on [Story Mode](https://github.com/Bokosyk/StoryMode)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Bokosyk](https://github.com/Bokosyk)
 
