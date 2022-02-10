@@ -5,21 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bokosyk" alt="bokosyk" /></a> </p>
 
-- 🔭 I’m currently working on [React-Portfolio](https://r-portfol.herokuapp.com/)
+- 🔭 I’m currently working on [Quote Generator](https://github.com/Bokosyk/quote-generator)
 
 - 🌱 I’m currently learning **Javascript, MySQL, Node.js**
 
-- 👯 I’m looking to collaborate on [Story Mode](https://github.com/Bokosyk/StoryMode)
-
 - 👨‍💻 All of my projects are available at [https://github.com/Bokosyk](https://github.com/Bokosyk)
 
-- 📝 I regularly write articles on [N/A](N/A)
-
-- 💬 Ask me about **React.JS, HTML, CSS, Javascript**
+- 💬 Ask me about **HTML, CSS, Javascript**
 
 - 📄 Know about my experiences [https://github.com/Bokosyk/React-Portfolio/blob/main/src/Documents/RR.pdf](https://github.com/Bokosyk/React-Portfolio/blob/main/src/Documents/RR.pdf)
 
-- ⚡ Fun fact **I love integrating art/technology, dungeons and dragons, and building cool things for fun😎**
+- ⚡ Fun fact **I love integrating art/technology, dungeons and dragons, and building cool things😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
