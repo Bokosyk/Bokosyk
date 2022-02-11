@@ -13,8 +13,6 @@
 
 - 💬 Ask me about **HTML, CSS, Javascript**
 
-- 📄 Know about my experiences [https://github.com/Bokosyk/React-Portfolio/blob/main/src/Documents/RR.pdf](https://github.com/Bokosyk/React-Portfolio/blob/main/src/Documents/RR.pdf)
-
 - ⚡ Fun fact **I love integrating art/technology, dungeons and dragons, and building cool things😎**
 
 <h3 align="left">Connect with me:</h3>
