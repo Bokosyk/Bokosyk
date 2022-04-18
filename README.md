@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **HTML, CSS, Javascript**
 
-- ⚡ Fun fact **I love integrating art/technology, dungeons and dragons, and building cool things😎**
+- ⚡ Fun fact **I love integrating art/technology**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
