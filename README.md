@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Leandro</h1>
-<h3 align="center">Passionate front-end developer with a background in graphic design.</h3>
+<h1 align="center">NAME: Leandro Parrado</h1>
+<h3 align="center">Passionate back-end developer with a background in graphic design.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bokosyk&label=Profile%20views&color=0e75b6&style=flat" alt="bokosyk" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **HTML, CSS, Javascript**
 
-- ⚡ Fun fact **I love integrating art/technology**
+- ⚡ Fun fact **I love combining art/technology**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
