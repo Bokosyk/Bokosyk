@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Leandro Parrado</h1>
+<h1 align="center">Hi 👋, I'm Leandro</h1>
 <h3 align="center">Passionate front-end developer with a background in graphic design.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bokosyk&label=Profile%20views&color=0e75b6&style=flat" alt="bokosyk" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bokosyk" alt="bokosyk" /></a> </p>
 
-- 🔭 I’m currently working on [Quote Generator](https://github.com/Bokosyk/quote-generator)
+- 🔭 I’m currently working on [Crypt Of Spooks](https://github.com/Bokosyk/crypt-of-spooks)
 
 - 🌱 I’m currently learning **Javascript, MySQL, Node.js**
 
