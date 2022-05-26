@@ -1,7 +1,13 @@
-<h1 align="center">NAME: Leandro Parrado</h1>
-<h3 align="center">Passionate back-end developer with a background in graphic design.</h3>
+<h1 align="center">NAME: Leandro Parrado :ghost:</h1>
+<h3 align="center">Passionate software developer based in Knoxville, Tennessee</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=bokosyk&label=Profile%20views&color=0e75b6&style=flat" alt="bokosyk" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bokosyk&label=Profile%20views&color=0e75b6&style=flat" alt="bokosyk" /> </p>
+<h2>About Me :monocle_face:</h2>
+<ul>
+  <li> I'm a software developer always looking for new things to learn!
+  <li> I enjoy drawing on my wacom tablet and love finding ways to blend my art and code together
+  <li> I can speak Spanish :cuba: :us: Soy cubano-americano!
+</ul>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bokosyk" alt="bokosyk" /></a> </p>
 
