@@ -5,7 +5,6 @@
 <h2 align="center">ABOUT :monocle_face:</h2>
 <ul align="left">
   <li> I'm a software developer always looking for new things to learn!
-  <li> I enjoy drawing on my wacom tablet and love finding ways to blend my art and code together
   <li> I can speak Spanish :cuba: :us: Soy cubano-americano!
 </ul>
 
