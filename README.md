@@ -18,8 +18,6 @@
 
 - 💬 Ask me about **HTML, CSS, Javascript**
 
-- ⚡ Fun fact **I love combining art/technology**
-
 <h2 align="center">SOCIAL MEDIA</h2>
 <p align="center"">
 <a href="https://codepen.io/bokosyk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="bokosyk" height="30" width="40" /></a>
