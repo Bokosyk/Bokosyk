@@ -12,11 +12,9 @@
 
 - 🔭 I’m currently working on [Crypt Of Spooks](https://github.com/Bokosyk/crypt-of-spooks)
 
-- 🌱 I’m currently learning **Javascript, MySQL, Node.js**
+- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Bokosyk](https://github.com/Bokosyk)
-
-- 💬 Ask me about **HTML, CSS, Javascript**
 
 <h2 align="center">SOCIAL MEDIA</h2>
 <p align="center"">
