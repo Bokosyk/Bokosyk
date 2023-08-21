@@ -10,7 +10,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bokosyk" alt="bokosyk" /></a> </p>
 
-- 🔭 I’m currently working on [Crypt Of Spooks](https://github.com/Bokosyk/crypt-of-spooks)
+- 🔭 I’m currently working on MVC Java Development Course.
 
 - 🌱 I’m currently learning **Java**
 
